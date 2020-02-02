@@ -7,7 +7,7 @@
 
 Julia Package to Model and Solve Dynamic Models in Corporate Finance
 
-Work in Progress
+Work in Progress, stay tuned...
 
 Contact: Juan Imbet
 Email: juan.imbet@upf.edu
